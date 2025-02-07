@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: whitesmoke;
+    margin:0%;
+}
+
+/*styling of the card*/
+.card{
+    background-color: rgb(234, 174, 184);
+
+   padding: 120px ;
+   border: 1px pink solid;
+   border-radius: 20px;
+   box-shadow: 5px 4px 5px black;
+   text-align: center;
+
+
+}
+
+.card button{
+    background-color: rgb(234, 174, 184);
+    border: 0cap;
+    
+}

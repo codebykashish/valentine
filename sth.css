@@ -1,0 +1,31 @@
+body{
+    background-color:white;
+    display:flex;
+    align-items: center;
+    height: 600px;
+   
+    justify-content: center;
+}
+  .box{
+    background-color: rgb(234, 174, 184);
+
+    padding: 120px ;
+    border: 1px pink solid;
+    border-radius: 20px;
+    box-shadow: 5px 4px 5px black;
+    text-align: center;
+ 
+  } 
+p{
+   font-size: larger;
+   font-family: cursive;
+font-style: oblique;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);}
+
+   button{
+    margin:10px;
+   }
+
+   button:hover{
+    background-color: rgb(187, 151, 157);
+   }
